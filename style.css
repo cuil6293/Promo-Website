@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=VT323&display=swap');
+
+body{
+	background-color: #2dc5f7;
+	text-align: center;
+	color: floralwhite;
+	font-size: 35px;
+	font-family: 'VT323', monospace;
+}
+
+h1{
+	background-color: floralwhite;
+	font-size: 50px;
+	color: #eb077d;
+	font-weight: bold;
+	text-align: left;
+	width: 50%;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+#pink{
+	color: hotpink;
+}
+.container{
+align-items: center;
+display: flex;
+column-gap: 20px;
+}
+
+.mirror{
+	width: 50%;
+	float: left;
+	border-radius: 20px;
+}
+
+.p1{
+	border-color: floralwhite;
+	border-style: double;
+	padding: 25px;
+	border-radius: 20px;
+	float: left;
+}
+
+h2{
+	background-color: floralwhite;
+	font-size: 50px;
+	color: #eb077d;
+	font-weight: bold;
+	text-align: center;
+	width: 25%;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+.games{
+	width: 33.3%;
+}
